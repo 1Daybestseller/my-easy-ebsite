@@ -14,3 +14,8 @@
 h3{
     text-decoration: underline 5px yellow;
 }
+img{
+    align-content: center;
+    width: 500px;
+    height: 300px;
+}
